@@ -1,0 +1,29 @@
+{
+  "name": "javascript-challenge",
+  "version": "1.0.0",
+  "description": "grunt",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohjon93/grunt-challenge.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Jonathan Oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohjon93/grunt-challenge/issues"
+  },
+  "homepage": "https://github.com/ohjon93/grunt-challenge"
+}
